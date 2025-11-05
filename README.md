@@ -20,8 +20,14 @@
 - 💼 **Custom Software Engineering Associate @ Accenture India** – Built enterprise-scale software solutions  
 - 📊 **Data Science Researcher** – Designed a Social Media Analysis System (Reddit + 4chan crawlers) to study fitness motivation and community influence  
 - 🌍 **Goethe-Zertifikat A1: Start Deutsch 1** – Certified in German Language Proficiency  
- 
+
+ ---
+
+<!-- 👀 Profile views badge (change username below if different) -->
+<img src="https://komarev.com/ghpvc/?username=atharvraje&style=flat&color=blue" alt="profile views" />
+
 ---
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharvraje)
@@ -61,7 +67,3 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
----
-
-<!-- 👀 Profile views badge (change username below if different) -->
-<img src="https://komarev.com/ghpvc/?username=atharvraje&style=flat&color=blue" alt="profile views" />
