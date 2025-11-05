@@ -1,6 +1,9 @@
 # Hey there! I'm Atharv Raje 👋
 💻 Software Engineer | AI & Cloud Enthusiast  
 
+<!-- 🎉 Right-aligned GitHub Octocat GIF -->
+<img align="right" width="200" src="https://raw.githubusercontent.com/kaitakami/kaitakami/master/octocat.gif" alt="octocat gif" />
+
 🎓 M.S. in Computer Science @ Binghamton University, U.S. (Graduating Dec 2025)  
 🎓 B.E. in Computer Engineering @ Pune University, India  
 
@@ -18,7 +21,6 @@
 - 📊 **Data Science Researcher** – Designed a Social Media Analysis System (Reddit + 4chan crawlers) to study fitness motivation and community influence  
 - 🌍 **Goethe-Zertifikat A1: Start Deutsch 1** – Certified in German Language Proficiency  
  
-
 ---
 
 ## 🌐 Socials:
@@ -59,10 +61,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
+
+<!-- 👀 Profile views badge (change username below if different) -->
+<img src="https://komarev.com/ghpvc/?username=atharvraje&style=flat&color=blue" alt="profile views" />
