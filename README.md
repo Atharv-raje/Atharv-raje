@@ -74,7 +74,6 @@
   <img src="https://streak-stats.demolab.com?user=atharvraje&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=atharvraje&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
- 
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvraje&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
