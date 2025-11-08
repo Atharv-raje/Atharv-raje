@@ -21,13 +21,12 @@
 - 📊 **Data Science Researcher** – Designed a Social Media Analysis System (Reddit + 4chan crawlers) to study fitness motivation and community influence  
 - 🌍 **Goethe-Zertifikat A1: Start Deutsch 1** – Certified in German Language Proficiency  
 
- ---
+---
 
-<!-- 👀 Profile views badge (change username below if different) -->
+<!-- 👀 Profile views badge -->
 <img src="https://komarev.com/ghpvc/?username=atharvraje&style=flat&color=blue" alt="profile views" />
 
 ---
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharvraje)
@@ -67,3 +66,19 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+---
+
+## 🚀 GitHub Stats & Streak Loop
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=atharvraje&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=atharvraje&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvraje&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+⭐️ **“Code. Learn. Build. Repeat.”**  
+*Let’s connect and collaborate on innovative AI, ML, and Cloud projects!*
