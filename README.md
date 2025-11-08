@@ -65,20 +65,3 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
----
-
-## 🚀 GitHub Stats & Streak Loop
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=atharvraje&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=atharvraje&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvraje&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
-⭐️ **“Code. Learn. Build. Repeat.”**  
-*Let’s connect and collaborate on innovative AI, ML, and Cloud projects!*
