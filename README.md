@@ -2,6 +2,7 @@
 💻 Software Engineer | AI & Cloud Enthusiast  
  
 <!-- 🎉 Right-aligned GitHub Octocat GIF -->
+
 <img align="right" width="200" src="https://raw.githubusercontent.com/kaitakami/kaitakami/master/octocat.gif" alt="octocat gif" />
 
 🎓 M.S. in Computer Science @ Binghamton University, U.S. (Graduating Dec 2025)  
