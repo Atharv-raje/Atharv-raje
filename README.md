@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atharv</h1>
 <h3 align="center">AI / Full Stack Engineer who enjoys turning LLM ideas into reliable production systems</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Atharv-raje&label=Profile%20views&color=0e75b6&style=flat" alt="Atharv-raje" />
-</p>
 
 I build things at the intersection of AI and full stack engineering. Currently I work at **AdsGency AI** on the Ads Platform team, where I help build LangGraph-based agent pipelines, the FastAPI services behind them, and the React/Next.js interfaces people actually use. I also help ship all of it to AWS and keep it running smoothly.
 
