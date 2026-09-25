@@ -57,8 +57,8 @@ I'm always learning. There's a lot I don't know yet, and I genuinely enjoy the p
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atharv-raje&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-raje&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="160" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="160" />
 </p>
 
 ---
