@@ -55,11 +55,6 @@ I'm always learning. There's a lot I don't know yet, and I genuinely enjoy the p
 
 [![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode,postman)](https://skillicons.dev)
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="160" />
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="160" />
-</p>
 
 ---
 
