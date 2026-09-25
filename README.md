@@ -1,70 +1,68 @@
-# Hey there! I'm Atharv Raje 👋
-💻 Software Engineer | AI & Cloud Enthusiast  
- 
-<!-- 🎉 Right-aligned GitHub Octocat GIF -->
+<h1 align="center">Hi 👋, I'm Atharv</h1>
+<h3 align="center">AI / Full Stack Engineer who enjoys turning LLM ideas into reliable production systems</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Atharv-raje&label=Profile%20views&color=0e75b6&style=flat" alt="Atharv-raje" />
+</p>
 
-<img align="right" width="200" src="https://raw.githubusercontent.com/kaitakami/kaitakami/master/octocat.gif" alt="octocat gif" />
+I build things at the intersection of AI and full stack engineering. Currently I work at **AdsGency AI** on the Ads Platform team, where I help build LangGraph-based agent pipelines, the FastAPI services behind them, and the React/Next.js interfaces people actually use. I also help ship all of it to AWS and keep it running smoothly.
 
-🎓 M.S. in Computer Science @ Binghamton University, U.S. (Graduating Dec 2025)  
-🎓 B.E. in Computer Engineering @ Pune University, India  
+I'm always learning. There's a lot I don't know yet, and I genuinely enjoy the process of figuring it out with the people around me. 🌱
 
-🔬 Research Engineer @ State University of New York Research Foundation, Binghamton  
-- Worked under NVIDIA on developing **real-time GPU cooling monitoring systems** to enhance thermal efficiency and stability in high-performance computing environments.  
-- Improved system reliability by integrating monitoring pipelines for temperature, utilization, and cooling metrics.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="coding" />
+</p>
+
+- 🔭 Currently building **multi-agent AI workflows** and full stack ad platform features at **AdsGency AI**
+- 🧠 Previously an **AI Engineer at The Research Foundation for SUNY**, contributing to an **NVIDIA collaboration** on AI-powered infrastructure monitoring
+- 🎬 Before that, an **AI Engineering Intern at Entertainment Technologists** in LA
+- 🌱 Currently exploring **MCP integrations, agent evaluation, and scalable RAG**
+- 🤝 I also help run technical interviews and coordinate engineering communication, which has taught me a lot about clear teamwork
+- 💬 Happy to chat about **LangGraph, RAG pipelines, FastAPI, and Next.js**
+- 📫 How to reach me: **your.email@example.com**
+- ⚡ Fun fact: **add something personal here**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="mailto:your.email@example.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+- **AI / LLM**
+
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector%20DBs-6E40C9?style=for-the-badge" />
+</p>
+
+- **Backend**
+
+[![Backend](https://skillicons.dev/icons?i=py,fastapi,nodejs)](https://skillicons.dev)
+
+- **Frontend**
+
+[![Frontend](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind)](https://skillicons.dev)
+
+- **Cloud & DevOps**
+
+[![Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions)](https://skillicons.dev)
+
+- **Tools**
+
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode,postman)](https://skillicons.dev)
+
+<h3 align="left">GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Atharv-raje&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-raje&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
 
 ---
 
-## 🏆 Leadership & Achievements
-- 🥇 **Oracle Cloud Infrastructure 2025 Certified Foundations Associate**  
-- ☁️ **AWS Certified Cloud Practitioner** – Hands-on with Docker, Kubernetes & AWS Infrastructure  
-- 📄 **Published IEEE Paper** – Developed a Visual Question Generator using deep learning techniques  
-- 💼 **Custom Software Engineering Associate @ Accenture India** – Built enterprise-scale software solutions  
-- 📊 **Data Science Researcher** – Designed a Social Media Analysis System (Reddit + 4chan crawlers) to study fitness motivation and community influence  
-- 🌍 **Goethe-Zertifikat A1: Start Deutsch 1** – Certified in German Language Proficiency  
-
----
-
-<!-- 👀 Profile views badge -->
-<img src="https://komarev.com/ghpvc/?username=atharvraje&style=flat&color=blue" alt="profile views" />
-
----
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharvraje)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvraje17@gmail.com)
-
----
-
-## 💻 Tech Stack:
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-
-
-### Databases & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<p align="center">
+  <em><b>I love connecting with people</b>, so if you'd like to talk about AI, a role, or a project, <b>please say hi!</b> 😊</em>
+</p>
