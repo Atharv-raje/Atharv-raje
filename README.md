@@ -23,7 +23,7 @@ I'm always learning. There's a lot I don't know yet, and I genuinely enjoy the p
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a>
-  <a href="mailto:your.email@example.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" /></a>
+  <a href="mailto:atharvraje17@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
