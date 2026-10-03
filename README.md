@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atharv</h1>
 <h3 align="center">AI / Full Stack Engineer who enjoys turning LLM ideas into reliable production systems</h3>
 
-
 I build things at the intersection of AI and full stack engineering. Currently I work at **AdsGency AI** on the Ads Platform team, where I help build LangGraph-based agent pipelines, the FastAPI services behind them, and the React/Next.js interfaces people actually use. I also help ship all of it to AWS and keep it running smoothly.
 
 I'm always learning. There's a lot I don't know yet, and I genuinely enjoy the process of figuring it out with the people around me. 🌱
@@ -17,13 +16,19 @@ I'm always learning. There's a lot I don't know yet, and I genuinely enjoy the p
 - 🤝 I also help run technical interviews and coordinate engineering communication, which has taught me a lot about clear teamwork
 - 💬 Happy to chat about **LangGraph, RAG pipelines, FastAPI, and Next.js**
 - 📫 How to reach me: **atharvraje17@gmail.com**
-
-
+- 🌐 Portfolio: **[atharv-raje-portfolio.netlify.app](https://atharv-raje-portfolio.netlify.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a>
-  <a href="mailto:atharvraje17@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+  </a>
+  <a href="mailto:atharvraje17@gmail.com" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" />
+  </a>
+  <a href="https://atharv-raje-portfolio.netlify.app/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" height="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -52,7 +57,6 @@ I'm always learning. There's a lot I don't know yet, and I genuinely enjoy the p
 - **Tools**
 
 [![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode,postman)](https://skillicons.dev)
-
 
 ---
 
