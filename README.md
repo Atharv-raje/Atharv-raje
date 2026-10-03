@@ -16,8 +16,8 @@ I'm always learning. There's a lot I don't know yet, and I genuinely enjoy the p
 - 🌱 Currently exploring **MCP integrations, agent evaluation, and scalable RAG**
 - 🤝 I also help run technical interviews and coordinate engineering communication, which has taught me a lot about clear teamwork
 - 💬 Happy to chat about **LangGraph, RAG pipelines, FastAPI, and Next.js**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **add something personal here**
+- 📫 How to reach me: **atharvraje17@gmail.com**
+
 
 
 <h3 align="left">Connect with me:</h3>
